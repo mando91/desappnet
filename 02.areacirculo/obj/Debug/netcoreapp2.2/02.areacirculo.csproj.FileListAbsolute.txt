@@ -1,0 +1,11 @@
+C:\Users\mando\Documents\desappnet\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.deps.json
+C:\Users\mando\Documents\desappnet\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.runtimeconfig.json
+C:\Users\mando\Documents\desappnet\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.runtimeconfig.dev.json
+C:\Users\mando\Documents\desappnet\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.dll
+C:\Users\mando\Documents\desappnet\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.pdb
+C:\Users\mando\Documents\desappnet\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.csprojAssemblyReference.cache
+C:\Users\mando\Documents\desappnet\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.csproj.CoreCompileInputs.cache
+C:\Users\mando\Documents\desappnet\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.AssemblyInfoInputs.cache
+C:\Users\mando\Documents\desappnet\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.AssemblyInfo.cs
+C:\Users\mando\Documents\desappnet\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.dll
+C:\Users\mando\Documents\desappnet\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.pdb

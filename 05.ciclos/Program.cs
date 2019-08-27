@@ -65,12 +65,12 @@ namespace _05.ciclos
                 }
                 break;
                 case 6 : {
-                    c = 40;
+                    c = 272;
 
-                    while(c<=272){
+                    while(c>=40){
                         Console.Write(c +" ");
                         suma+=c;
-                        c+=4;
+                        c-=4;
                     }
                     Console.WriteLine($"\n La suma es {suma}");
                 }

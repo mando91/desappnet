@@ -1,0 +1,11 @@
+C:\Users\mando\Documents\desappnet\06.pizza\obj\Debug\netcoreapp2.2\06.pizza.csprojAssemblyReference.cache
+C:\Users\mando\Documents\desappnet\06.pizza\obj\Debug\netcoreapp2.2\06.pizza.csproj.CoreCompileInputs.cache
+C:\Users\mando\Documents\desappnet\06.pizza\obj\Debug\netcoreapp2.2\06.pizza.AssemblyInfoInputs.cache
+C:\Users\mando\Documents\desappnet\06.pizza\obj\Debug\netcoreapp2.2\06.pizza.AssemblyInfo.cs
+C:\Users\mando\Documents\desappnet\06.pizza\bin\Debug\netcoreapp2.2\06.pizza.deps.json
+C:\Users\mando\Documents\desappnet\06.pizza\bin\Debug\netcoreapp2.2\06.pizza.runtimeconfig.json
+C:\Users\mando\Documents\desappnet\06.pizza\bin\Debug\netcoreapp2.2\06.pizza.runtimeconfig.dev.json
+C:\Users\mando\Documents\desappnet\06.pizza\bin\Debug\netcoreapp2.2\06.pizza.dll
+C:\Users\mando\Documents\desappnet\06.pizza\bin\Debug\netcoreapp2.2\06.pizza.pdb
+C:\Users\mando\Documents\desappnet\06.pizza\obj\Debug\netcoreapp2.2\06.pizza.dll
+C:\Users\mando\Documents\desappnet\06.pizza\obj\Debug\netcoreapp2.2\06.pizza.pdb

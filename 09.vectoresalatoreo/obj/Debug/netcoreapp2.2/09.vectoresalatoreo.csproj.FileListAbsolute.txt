@@ -1,0 +1,11 @@
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\bin\Debug\netcoreapp2.2\09.vectoresalatoreo.deps.json
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\bin\Debug\netcoreapp2.2\09.vectoresalatoreo.runtimeconfig.json
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\bin\Debug\netcoreapp2.2\09.vectoresalatoreo.runtimeconfig.dev.json
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\bin\Debug\netcoreapp2.2\09.vectoresalatoreo.dll
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\bin\Debug\netcoreapp2.2\09.vectoresalatoreo.pdb
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\obj\Debug\netcoreapp2.2\09.vectoresalatoreo.csprojAssemblyReference.cache
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\obj\Debug\netcoreapp2.2\09.vectoresalatoreo.csproj.CoreCompileInputs.cache
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\obj\Debug\netcoreapp2.2\09.vectoresalatoreo.AssemblyInfoInputs.cache
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\obj\Debug\netcoreapp2.2\09.vectoresalatoreo.AssemblyInfo.cs
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\obj\Debug\netcoreapp2.2\09.vectoresalatoreo.dll
+C:\Users\mando\Documents\desappnet\09.vectoresalatoreo\obj\Debug\netcoreapp2.2\09.vectoresalatoreo.pdb

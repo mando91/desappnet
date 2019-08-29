@@ -1,0 +1,11 @@
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.deps.json
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.runtimeconfig.json
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.runtimeconfig.dev.json
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.dll
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.pdb
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.csprojAssemblyReference.cache
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.csproj.CoreCompileInputs.cache
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.AssemblyInfoInputs.cache
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.AssemblyInfo.cs
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.dll
+C:\Users\mando\Documents\desappnet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.pdb

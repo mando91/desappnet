@@ -1,0 +1,11 @@
+C:\Users\mando\Documents\desappnet\16.Interfaces\obj\Debug\netcoreapp2.2\16.Interfaces.csprojAssemblyReference.cache
+C:\Users\mando\Documents\desappnet\16.Interfaces\obj\Debug\netcoreapp2.2\16.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mando\Documents\desappnet\16.Interfaces\obj\Debug\netcoreapp2.2\16.Interfaces.AssemblyInfoInputs.cache
+C:\Users\mando\Documents\desappnet\16.Interfaces\obj\Debug\netcoreapp2.2\16.Interfaces.AssemblyInfo.cs
+C:\Users\mando\Documents\desappnet\16.Interfaces\bin\Debug\netcoreapp2.2\16.Interfaces.deps.json
+C:\Users\mando\Documents\desappnet\16.Interfaces\bin\Debug\netcoreapp2.2\16.Interfaces.runtimeconfig.json
+C:\Users\mando\Documents\desappnet\16.Interfaces\bin\Debug\netcoreapp2.2\16.Interfaces.runtimeconfig.dev.json
+C:\Users\mando\Documents\desappnet\16.Interfaces\bin\Debug\netcoreapp2.2\16.Interfaces.dll
+C:\Users\mando\Documents\desappnet\16.Interfaces\bin\Debug\netcoreapp2.2\16.Interfaces.pdb
+C:\Users\mando\Documents\desappnet\16.Interfaces\obj\Debug\netcoreapp2.2\16.Interfaces.dll
+C:\Users\mando\Documents\desappnet\16.Interfaces\obj\Debug\netcoreapp2.2\16.Interfaces.pdb

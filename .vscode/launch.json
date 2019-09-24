@@ -5,15 +5,24 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": ".NET Core Launch (console)",
+            "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/02.areacirculo/bin/Debug/netcoreapp2.2/02.areacirculo.dll",
+            "program": "${workspaceFolder}/17.MvcMovie/bin/Debug/netcoreapp2.2/17.MvcMovie.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/02.areacirculo",
-            "console": "internalConsole",
-            "stopAtEntry": false
+            "cwd": "${workspaceFolder}/17.MvcMovie",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "^\\s*Now listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
         },
         {
             "name": ".NET Core Attach",

@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using ContosoUniversity.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore.Sqlite;
 
 namespace ContosoUniversity
 {
@@ -33,10 +34,9 @@ namespace ContosoUniversity
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
-
-            services.AddDbContext<SchoolContext>(options =>
-             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-
+           
+             services.AddDbContext<SchoolContext>(options =>
+             options.UseSqlite(Configuration.GetConnectionString("DefaultConnection"))); 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }

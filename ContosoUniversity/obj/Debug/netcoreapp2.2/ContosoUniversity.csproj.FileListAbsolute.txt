@@ -28,3 +28,8 @@ c:\Users\mando\Documents\desappnet\ContosoUniversity\obj\Debug\netcoreapp2.2\Con
 c:\Users\mando\Documents\desappnet\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.dll
 c:\Users\mando\Documents\desappnet\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.pdb
 C:\Users\mando\Documents\desappnet\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CopyComplete
+c:\Users\mando\Documents\desappnet\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+c:\Users\mando\Documents\desappnet\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+c:\Users\mando\Documents\desappnet\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+c:\Users\mando\Documents\desappnet\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+c:\Users\mando\Documents\desappnet\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs

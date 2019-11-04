@@ -1,0 +1,74 @@
+@model ExamenParcial2.Models.Guests
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Guests</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="GuestId" />
+            <div class="form-group">
+                <label asp-for="GuestTile" class="control-label"></label>
+                <input asp-for="GuestTile" class="form-control" />
+                <span asp-validation-for="GuestTile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GuestForenames" class="control-label"></label>
+                <input asp-for="GuestForenames" class="form-control" />
+                <span asp-validation-for="GuestForenames" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GuestSurnames" class="control-label"></label>
+                <input asp-for="GuestSurnames" class="form-control" />
+                <span asp-validation-for="GuestSurnames" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GuestsDOB" class="control-label"></label>
+                <input asp-for="GuestsDOB" class="form-control" />
+                <span asp-validation-for="GuestsDOB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GuestAddressStreet" class="control-label"></label>
+                <input asp-for="GuestAddressStreet" class="form-control" />
+                <span asp-validation-for="GuestAddressStreet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GuestAddressTown" class="control-label"></label>
+                <input asp-for="GuestAddressTown" class="form-control" />
+                <span asp-validation-for="GuestAddressTown" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GuestAddressSCountry" class="control-label"></label>
+                <input asp-for="GuestAddressSCountry" class="form-control" />
+                <span asp-validation-for="GuestAddressSCountry" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GuestAddressPostalCode" class="control-label"></label>
+                <input asp-for="GuestAddressPostalCode" class="form-control" />
+                <span asp-validation-for="GuestAddressPostalCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GuestContactPhone" class="control-label"></label>
+                <input asp-for="GuestContactPhone" class="form-control" />
+                <span asp-validation-for="GuestContactPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

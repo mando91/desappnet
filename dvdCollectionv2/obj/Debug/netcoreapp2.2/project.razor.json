@@ -2966,8 +2966,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "ContosoUniversity\\Views\\_ViewStart.cshtml",
+      "TargetPath": "ContosoUniversity\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "ContosoUniversity\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "ContosoUniversity\\Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "ContosoUniversity\\Views\\Home\\Index.cshtml",
+      "TargetPath": "ContosoUniversity\\Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2991,8 +3006,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "ContosoUniversity\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "ContosoUniversity\\Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -3016,8 +3041,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "ContosoUniversity\\Views\\_ViewImports.cshtml",
+      "TargetPath": "ContosoUniversity\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "ContosoUniversity\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "ContosoUniversity\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "ContosoUniversity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "ContosoUniversity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {

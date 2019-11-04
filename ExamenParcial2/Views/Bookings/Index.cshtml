@@ -1,0 +1,59 @@
+@model IEnumerable<ExamenParcial2.Models.Bookings>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DateBooikingMede)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateBooikedStart)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateBookedEnd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingComments)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Custumers)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateBooikingMede)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateBooikedStart)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateBookedEnd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookingComments)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Custumers.CustomerAddressPostalCode)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.BookingId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.BookingId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.BookingId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

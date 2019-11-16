@@ -15,6 +15,7 @@ namespace EmergenciasMX.Areas.Identity
     {
         public void Configure(IWebHostBuilder builder)
         {
+            
             builder.ConfigureServices((context, services) => {
                 services.AddDbContext<emergenciasMxContext>(options =>
                     options.UseSqlite(
@@ -22,7 +23,7 @@ namespace EmergenciasMX.Areas.Identity
 
                 services.AddDefaultIdentity<User>()
                     .AddEntityFrameworkStores<emergenciasMxContext>();
-            });
+            }); 
         }
     }
 }

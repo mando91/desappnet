@@ -2971,8 +2971,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\EmergenciaInstitucion\\Details.cshtml",
+      "TargetPath": "Views\\EmergenciaInstitucion\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\EmergenciaInstitucion\\Index.cshtml",
+      "TargetPath": "Views\\EmergenciaInstitucion\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\InstitucionPublica\\Edit.cshtml",
+      "TargetPath": "Views\\InstitucionPublica\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Emergencia\\Details.cshtml",
+      "TargetPath": "Views\\Emergencia\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\ReportesAnonimos\\Index.cshtml",
+      "TargetPath": "Views\\ReportesAnonimos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Vehiculo\\Edit.cshtml",
+      "TargetPath": "Views\\Vehiculo\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2981,8 +3011,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Vehiculo\\Index.cshtml",
+      "TargetPath": "Views\\Vehiculo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\EmergenciaInstitucion\\Edit.cshtml",
+      "TargetPath": "Views\\EmergenciaInstitucion\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\ReportesAnonimos\\Create.cshtml",
+      "TargetPath": "Views\\ReportesAnonimos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\EmergenciaInstitucion\\Create.cshtml",
+      "TargetPath": "Views\\EmergenciaInstitucion\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\InstitucionPublica\\Index.cshtml",
+      "TargetPath": "Views\\InstitucionPublica\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\InstitucionPublica\\Delete.cshtml",
+      "TargetPath": "Views\\InstitucionPublica\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Emergencia\\Edit.cshtml",
+      "TargetPath": "Views\\Emergencia\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2996,8 +3061,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Emergencia\\Delete.cshtml",
+      "TargetPath": "Views\\Emergencia\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\InstitucionPublica\\Create.cshtml",
+      "TargetPath": "Views\\InstitucionPublica\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Emergencia\\Create.cshtml",
+      "TargetPath": "Views\\Emergencia\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\InstitucionPublica\\Details.cshtml",
+      "TargetPath": "Views\\InstitucionPublica\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\ReportesAnonimos\\Delete.cshtml",
+      "TargetPath": "Views\\ReportesAnonimos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Vehiculo\\Delete.cshtml",
+      "TargetPath": "Views\\Vehiculo\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Vehiculo\\Create.cshtml",
+      "TargetPath": "Views\\Vehiculo\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -3011,8 +3111,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\EmergenciaInstitucion\\Delete.cshtml",
+      "TargetPath": "Views\\EmergenciaInstitucion\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\ReportesAnonimos\\Edit.cshtml",
+      "TargetPath": "Views\\ReportesAnonimos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Emergencia\\Index.cshtml",
+      "TargetPath": "Views\\Emergencia\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\ReportesAnonimos\\Details.cshtml",
+      "TargetPath": "Views\\ReportesAnonimos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Vehiculo\\Details.cshtml",
+      "TargetPath": "Views\\Vehiculo\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],

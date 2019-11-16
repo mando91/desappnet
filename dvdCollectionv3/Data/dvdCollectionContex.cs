@@ -1,11 +1,13 @@
 
 using Microsoft.EntityFrameworkCore;
 using dvdCollection.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 
 namespace dvdCollection.Data 
 {
-    public class dvdCollectionContext : DbContext
+    public class dvdCollectionContext : IdentityDbContext<User>
     {
         public dvdCollectionContext(DbContextOptions<dvdCollectionContext> options) : base(options) 
         {
@@ -19,9 +21,11 @@ namespace dvdCollection.Data
         public DbSet<FilmTitlesProducers> FilmTitlesProducers {get; set;}
         public DbSet<Producers> Producers {get; set;}
         public DbSet<RoleTypes> RoleTypes {get; set;}
+        public DbSet<User> User {get; set;}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+         base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<FilmTitlesProducers>().HasKey(c => new {c.ProducerID, c.FilmTitleID});
             modelBuilder.Entity<FilmsActorRoles>().HasKey(c => new {c.FilmTitleID, c.ActorID, c.RoleTypeID});
         }

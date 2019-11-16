@@ -13,6 +13,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Sqlite;
 using dvdCollection.Data;
+ using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Authorization; 
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace dvdCollection
 {
@@ -37,6 +41,10 @@ namespace dvdCollection
 
             services.AddDbContext<dvdCollectionContext>( 
                 options => options.UseSqlite(Configuration.GetConnectionString("DefaultConnection") ) );
+            services.AddMvc(o =>{
+                var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
+                o.Filters.Add(new AuthorizeFilter(policy));
+            });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
@@ -58,6 +66,7 @@ namespace dvdCollection
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+            app.UseAuthentication();  
 
             app.UseMvc(routes =>
             {

@@ -123,3 +123,6 @@ c:\Users\mando\Documents\desappnet\dvdCollectionv3\obj\Debug\netcoreapp2.2\Razor
 c:\Users\mando\Documents\desappnet\dvdCollectionv3\obj\Debug\netcoreapp2.2\Razor\Views\FilmTitles\Details.g.cshtml.cs
 c:\Users\mando\Documents\desappnet\dvdCollectionv3\obj\Debug\netcoreapp2.2\Razor\Views\FilmTitles\Edit.g.cshtml.cs
 c:\Users\mando\Documents\desappnet\dvdCollectionv3\obj\Debug\netcoreapp2.2\Razor\Views\FilmTitles\Index.g.cshtml.cs
+c:\Users\mando\Documents\desappnet\dvdCollectionv3\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+c:\Users\mando\Documents\desappnet\dvdCollectionv3\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+c:\Users\mando\Documents\desappnet\dvdCollectionv3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs

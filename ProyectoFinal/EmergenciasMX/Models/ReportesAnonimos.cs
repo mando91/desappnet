@@ -13,7 +13,7 @@ namespace EmergenciasMX.Models
         [StringLength(60)]
         public string Descripcion {get; set;} 
                
-         [Required(ErrorMessage="El campo es obligatorio")]
+        [Required(ErrorMessage="El campo es obligatorio")]
         public int EmergenciaId { get; set; }
         public Emergencia Emergencia {get; set;}
    

@@ -17,7 +17,7 @@ namespace EmergenciasMX.Models
         [Required(ErrorMessage="El campo es obligatorio")]
         [StringLength(60)]
         public string Lugar{ get; set;}
-         [Required]
+        [Required]
         public string Estatus {get; set;}
          
 

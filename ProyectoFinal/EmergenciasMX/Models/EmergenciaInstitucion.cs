@@ -8,9 +8,9 @@ namespace EmergenciasMX.Models
     {
         
         public int EmergenciaInstitucionId { get; set; }
-    [Required(ErrorMessage="El campo es obligatorio")]
-       public int EmergenciaId { get; set; }
-       [Required(ErrorMessage="El campo es obligatorio")]
+        [Required(ErrorMessage="El campo es obligatorio")]
+        public int EmergenciaId { get; set; }
+        [Required(ErrorMessage="El campo es obligatorio")]
         
         public int InstitucionPublicaId { get; set; }
 

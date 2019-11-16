@@ -23,6 +23,10 @@ namespace EmergenciasMX.Areas.Identity.Data
         public DbSet<InstitucionPublica> InstitucionPublica { get; set; }
         public DbSet<EmergenciaInstitucion> EmergenciaInstitucion { get; set; } 
         public DbSet<ReportesAnonimos> ReportesAnonimos { get; set; }
+        public DbSet<Civiles> Civiles { get; set; }
+        public DbSet<CivilesAtencionMedica> CivilesAtencionMedica { get; set; }
+        public DbSet<Donadores> Donadores { get; set; }
+        public DbSet<MuertesCiviles> MuertesCiviles { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
           //  builder.Entity<IdentityUser>().ToTable("AspNetUsers");
